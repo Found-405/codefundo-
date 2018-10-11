@@ -1,4 +1,6 @@
 # codefundo-
+# Problem 
+-  Panic and management of the groups in affected region before and during the disaster(traffic jams,lack of communication       between family members and close friends,inablity to find safe places in panic,inablity to pack sufficent resources for the     worst case).
 # Vision
 - To produce an android application which predicts, warns and manages a natural disaster.
 - The app includes three phases  : 
